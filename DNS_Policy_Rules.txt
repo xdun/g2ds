@@ -285,8 +285,6 @@
 ||farvd.com^
 ||cferw.com^
 ||youmi.net^
-!百度广告
-||baidustatic.com^
 !酷U手盟
 ||kkcz.com^
 ||poklytk.com^
@@ -416,4 +414,5 @@
 ||cpro.baidu.cn^
 ||tbwm.baidu.com^
 ||luflow.baidu.com^
+||baidustatic.com^
 ||hm.baidu.com^

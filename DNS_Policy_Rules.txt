@@ -12,16 +12,20 @@
 ||yidou360.com^
 ||cdn.bcebos.com^
 ||adf.ly^
-
 ||haloapps.com^
 ||mmstat.com^
+||sb.scorecardresearch.com^
+||secure-gg.imrworldwide.com^
+
+
+
 
 !广告图片源(小众)
 ||img.wojiabaoye.com^
 
 
-
-
+！小广告集合
+||m.tcn5zy.top^
 
 
 
@@ -131,6 +135,8 @@
 !com.alphab
 ||cleverjp.com^
 !com.google.android.gms.ads
+||ade.googlesyndication.com^
+||tpc.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||google-analytics.com^
 ||www.googletagmanager.com^

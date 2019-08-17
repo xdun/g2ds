@@ -5,6 +5,8 @@
 ||cdn.bcebos.com^
 ||pv.ldlwdsx.com^
 ||www.la61d.cn^
+||m.yierheng.top^
+
 
 ||sb.scorecardresearch.com^
 ||secure-gg.imrworldwide.com^
@@ -31,7 +33,9 @@
 
 !广告图片源(小众)
 ||img.wojiabaoye.com^
-
+||img.86yp.cn^
+||img.py69.cn^
+||img.miswg.cn^
 
 
 

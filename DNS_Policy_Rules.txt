@@ -3,6 +3,8 @@
 ||statics.woozooo.com^
 ||app.9yyg.cn^
 ||cdn.bcebos.com^
+||pv.ldlwdsx.com^
+||www.la61d.cn^
 
 ||sb.scorecardresearch.com^
 ||secure-gg.imrworldwide.com^
@@ -22,6 +24,7 @@
 ||adf.ly^
 ||haloapps.com^
 ||mmstat.com^
+||s.360.cn^
 
 
 

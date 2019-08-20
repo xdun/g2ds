@@ -8,6 +8,25 @@
 ||m.yierheng.top^
 ||m.liebaonet.cn^
 ||m.xuanlimin.top^
+||m.helloworld2018.top^
+||c.5x08q.cn^
+||m.bgj216.cn^
+||m.vkjnd.com^
+||e.bgj216.cn^
+||dte.n554pc.cn^
+||pv.dakawm.cc^
+||cdn.yunsennet.com^
+||vip.baiduvip.space^
+||main.intxt.cn^
+||seo.guoxintdh.com^
+||m.zyq7.top^
+||defu189.com^
+||b8.uggly.cn^
+||dg.ghosttty.cn^
+||m.282931.top^
+||faoocoo.lizhuizhui.cn^
+||g.zhoukaika.com^
+||hj99q.cn^
 
 ||sb.scorecardresearch.com^
 ||secure-gg.imrworldwide.com^
@@ -28,8 +47,10 @@
 ||haloapps.com^
 ||mmstat.com^
 ||s.360.cn^
-
-
+||app-measurement.com^
+||scs.openspeech.cn^
+||s8.qhres.com^
+||js.passport.qihucdn.com^
 
 
 !广告图片源(小众)
@@ -37,6 +58,11 @@
 ||img.86yp.cn^
 ||img.py69.cn^
 ||img.miswg.cn^
+||img.yhqfx1.com^
+||gif.collecter.cn^
+||img.xiwnu.cn^
+||img.mimob.cn^
+||image.ghosttty.cn^
 
 
 

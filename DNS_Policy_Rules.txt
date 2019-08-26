@@ -1,36 +1,47 @@
 ！小广告集合
-||m.tcn5zy.top^
-||statics.woozooo.com^
-||app.9yyg.cn^
-||cdn.bcebos.com^
-||pv.ldlwdsx.com^
-||www.la61d.cn^
-||m.yierheng.top^
-||m.liebaonet.cn^
-||m.xuanlimin.top^
-||m.helloworld2018.top^
-||c.5x08q.cn^
-||m.bgj216.cn^
-||m.vkjnd.com^
-||e.bgj216.cn^
-||dte.n554pc.cn^
-||pv.dakawm.cc^
-||cdn.yunsennet.com^
-||vip.baiduvip.space^
-||main.intxt.cn^
-||seo.guoxintdh.com^
-||m.zyq7.top^
+||tcn5zy.top^
+||woozooo.com^
+||9yyg.cn^
+||bcebos.com^
+||ldlwdsx.com^
+||la61d.cn^
+||yierheng.top^
+||liebaonet.cn^
+||xuanlimin.top^
+||helloworld2018.top^
+||5x08q.cn^
+||bgj216.cn^
+||vkjnd.com^
+||n554pc.cn^
+||dakawm.cc^
+||yunsennet.com^
+||baiduvip.space^
+||intxt.cn^
+||guoxintdh.com^
+||zyq7.top^
 ||defu189.com^
-||b8.uggly.cn^
-||dg.ghosttty.cn^
-||m.282931.top^
-||faoocoo.lizhuizhui.cn^
-||g.zhoukaika.com^
+||uggly.cn^
+||ghosttty.cn^
+||282931.top^
+||lizhuizhui.cn^
+||zhoukaika.com^
 ||hj99q.cn^
+||tcavdh.top^
+||sygjls.com^
+||noa86.cn^
+||jbmsjy.com^
+||zz99d.cn^
+||ordidc.com^
+||sheguang.top^
+||openspeech.cn^
+||q6mk8n.cn^
+||cqlxscdc.top^
+||socdm.com^
+||nend.net^
+||api.gadget.nicovideo.jp^
 
 ||sb.scorecardresearch.com^
 ||secure-gg.imrworldwide.com^
-
 ||clcknads.pro^
 ||exosrv.com^
 ||genieesspv.jp^
@@ -48,9 +59,9 @@
 ||mmstat.com^
 ||s.360.cn^
 ||app-measurement.com^
-||scs.openspeech.cn^
-||s8.qhres.com^
-||js.passport.qihucdn.com^
+
+
+
 
 
 !广告图片源(小众)
@@ -63,7 +74,6 @@
 ||img.xiwnu.cn^
 ||img.mimob.cn^
 ||image.ghosttty.cn^
-
 
 
 

@@ -59,7 +59,8 @@
 ||mmstat.com^
 ||s.360.cn^
 ||app-measurement.com^
-
+||yangkeduo.com^
+||pingma.qq.com^
 
 
 

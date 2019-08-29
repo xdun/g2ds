@@ -355,6 +355,7 @@
 !城通广告
 ||mydisplay.ctfile.com^
 ||doubleclick.ctfile.com^
+||union.ctfile.com^
 !百度网盟
 ||at1.doubanio.com^
 ||at2.doubanio.com^

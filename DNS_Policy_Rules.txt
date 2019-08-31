@@ -468,5 +468,4 @@
 ||cpro.baidu.cn^
 ||tbwm.baidu.com^
 ||luflow.baidu.com^
-||baidustatic.com^
 ||hm.baidu.com^

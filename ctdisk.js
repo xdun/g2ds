@@ -12,7 +12,7 @@
 
 (function() {
     'use strict';
-    let link = parent.location.href;
+    let link = location.href;
     GM_openInTab('https://xjxy.com/ctdisk.php?url=' + link, { active: true });
     })();
     

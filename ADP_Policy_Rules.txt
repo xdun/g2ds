@@ -49,6 +49,7 @@ v.qq.com##.mod_ad_square,.mod_ad_main,.mod_ad,.side_ad
 
 
 
+||cdn.kuaidi100.com/js/share/a_show_new.js
 
 !--------特征广告请求--------
 .ad
@@ -61,6 +62,9 @@ ads.
 /ad_
 /sdk
 /upgrade
+/tongji.js
+/bd_stat.js
+/discor
 */vipgg/
 */jsa/
 

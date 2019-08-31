@@ -61,7 +61,13 @@
 ||app-measurement.com^
 ||yangkeduo.com^
 ||pingma.qq.com^
-
+||ampproject.org^
+||bx9000.top^
+||das168.top^
+||blogdaka.cc^
+||lwhsdfc.cn^
+||qzzxjc.com^
+||ssggba.top^
 
 
 

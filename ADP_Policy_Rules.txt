@@ -27,8 +27,10 @@ blog.csdn.net##.recommend-ad-box,.fourth_column,.light-box,.pulllog-box,.box-sha
 www.baike.com##.bk-weixin,.doc-recom,.search
 v.qq.com##.mod_ad_square,.mod_ad_main,.mod_ad,.side_ad
 
-
-
+！酷安广告
+||api.coolapk.com/v6/main/init$replace=/data/xxx/
+||api.coolapk.com/v6/search?type=hotSearch$replace=/data/xxx/
+||api.coolapk.com/v6/feed/detail$replace=/detailSponsorCard/xxx/
 !--------去顽固广告--------
 ||t7z.cupid.iqiyi.com/show2$replace=/Url/xxx/
 ||img.weiyun.com/club/weiyun/wy/dist/share/h5/main.js$replace=/_constants2.default.BROWSER.Weixin/1>0/

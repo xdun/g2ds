@@ -1,0 +1,87 @@
+!--------滤去广告元素--------
+##.widget_ui_textasb,.asb,.asb-post-footer
+##.hot
+##.yszdyq
+##.wgt-footer-main,.wgt-footer-simple,.wgt-footer,.wgt-footer-new
+!起点中文网
+book.qidian.com##.qd-game,.games-op-wrap,.right-op-wrap,#j-topHeadBox
+forum.qidian.com##.right-op-wrap
+www.qidian.com###tr-banner,#j-topOpBox,#banner-two,#banner3
+read.qidian.com###page-ops
+123.dns.com##.cont_ad clear,.foot_top
+!百度系
+zhidao.baidu.com##.grid-r,.wgt-ads,.aside-wp,.hot-daily-wp,.qb-side,.wgt-bottom-union,.qbleftdown
+m.baidu.com##.tc-card-novel-recomm-title,.c-row-tile,.tc-card-novel-operate-banner,.envelope
+pan.baidu.com###ad-platform-tips,#web-multi-bottom
+tieba.baidu.com##.right_section,.j_search_nav,#pb_adbanner
+baike.baidu.com##.rightAd-link, .lemmaWgt-promotion-slide, .lemmaWgt-promotion-rightPreciseAd, .lemmaWgt-promotion-vbaike, .after-content, .new-bdsharebuttonbox, .wgt-footer-main, .navbar-wrapper, .declare-wrap, .wiki-common-headTabBar, .secondsknow-large-container, .lemmaCnt-congfigModule-shushuo, .topA
+jingyan.baidu.com##.wgt-footer, .wrapper-slider, .ad-card, .wgt-ad-recommend
+!17ce广告
+www.17ce.com##.top-banner-app,.top-banner,#header .topnav,#links_wrap,#ad_wrap,#da_wrap,#ce_into,#tp_wrap,#footer, .f_wrap, .ui_listbox
+||www.17ce.com/smedia/assets/css/ce.css$replace=/.gif/.xxx/
+||www.17ce.com/118^
+||www.17ce.com/smedia/js/common.js$replace=/j < adlist.length/0>1/
+!其他
+www.zhihu.com##.Banner-link,.side-content,.AppBanner
+blog.csdn.net##.recommend-ad-box,.fourth_column,.light-box,.pulllog-box,.box-shadow
+www.baike.com##.bk-weixin,.doc-recom,.search
+v.qq.com##.mod_ad_square,.mod_ad_main,.mod_ad,.side_ad
+
+
+
+!--------去顽固广告--------
+||t7z.cupid.iqiyi.com/show2$replace=/Url/xxx/
+||img.weiyun.com/club/weiyun/wy/dist/share/h5/main.js$replace=/_constants2.default.BROWSER.Weixin/1>0/
+||api.xiaomingming.org^$replace=/var isWap = '1'/var isWap = '0'/
+||api.xiaomingming.org^$replace=/parent.location.href/xxx/
+||*.ctfile.com/img/lanjuhua-aaa.png
+||*.ctfile.com/img/down1_ssp3.gif
+||www.zxcs.me/content/plugins/cpdown/style/show.js
+||static.zongheng.com/upload/*/column
+||www.zhihu.com/api/v4^$empty
+||baike.baidu.com/api^
+||static.iask.cn/libjs^
+||www.uploadship.com^$replace=/"bannerad"/"adblockinfo"/
+||www.uploadship.com^$replace=/var seconds = 30;/var seconds = 0;/
+||www.lanzous.com/img^$script
+
+
+
+
+!--------特征广告请求--------
+.ad
+.ads
+-ads
+ad.
+ads.
+/gg
+/adv
+/ad_
+/sdk
+/upgrade
+*/vipgg/
+*/jsa/
+
+
+
+!正则规则
+/(/)\w{1,2}\.js$/$important,empty
+/(list|wm|tj|_ad|float|show)\.js$/$important,empty
+/(float|bd|discor|pos)\w+\.js$/$important,empty
+/*.gif?$important,empty
+*?token8=$important,empty
+*js?ssid=$empty
+/uu.php?v=$empty
+/*.xhtml?$empty
+/*.htmm?$empty
+/*.html?1$empty
+
+/template/*mobi$script
+/wap.js$replace=/http/xxx/
+/wap.js$replace=/Go\('xxx/Go\('http/
+/read*.js$replace=/http/xxx/
+/index.js$replace=/http/xxx/
+/common*.js$replace=/http/xxx/
+/main.js$replace=/http/xxx/
+/foot*.js$replace=/http/xxx/
+/style.js$replace=/http/xxx/

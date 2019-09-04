@@ -1,7 +1,6 @@
 ！小广告集合
 ||tcn5zy.top^
-||www.smucdn.com^
-||statics.woozooo.com^
+||smucdn.com^
 ||9yyg.cn^
 ||bcebos.com^
 ||ldlwdsx.com^
@@ -34,15 +33,10 @@
 ||zz99d.cn^
 ||ordidc.com^
 ||sheguang.top^
-||openspeech.cn^
 ||q6mk8n.cn^
 ||cqlxscdc.top^
 ||socdm.com^
 ||nend.net^
-||api.gadget.nicovideo.jp^
-
-||sb.scorecardresearch.com^
-||secure-gg.imrworldwide.com^
 ||clcknads.pro^
 ||exosrv.com^
 ||genieesspv.jp^
@@ -57,44 +51,37 @@
 ||yidou360.com^
 ||adf.ly^
 ||haloapps.com^
-||mmstat.com^
-||s.360.cn^
 ||app-measurement.com^
 ||yangkeduo.com^
-||pingma.qq.com^
-||ampproject.org^
 ||bx9000.top^
 ||das168.top^
 ||blogdaka.cc^
 ||lwhsdfc.cn^
 ||qzzxjc.com^
 ||ssggba.top^
-||dnet.mb.qq.com^
 ||criteo.net^
 ||360buyimg.com^
-||ulog.jd.com^
-||s.ssl.qhres.com^
-||jspassport.ssl.qhimg.com^
-||em.baidu.com^
 ||mn586.com^
-||cpro.baidustatic.com^
 ||3.cn^
 ||sogoucdn.com^
+||wojiabaoye.com^
+||86yp.cn^
+||py69.cn^
+||miswg.cn^
+||yhqfx1.com^
+||collecter.cn^
+||xiwnu.cn^
+||mimob.cn^
 
-!广告图片源(小众)
-||img.wojiabaoye.com^
-||img.86yp.cn^
-||img.py69.cn^
-||img.miswg.cn^
-||img.yhqfx1.com^
-||gif.collecter.cn^
-||img.xiwnu.cn^
-||img.mimob.cn^
-||image.ghosttty.cn^
+||statics.woozooo.com^
+||sb.scorecardresearch.com^
+||secure-gg.imrworldwide.com^
+||ulog.jd.com^
 
 
 
-
+!讯飞
+||openspeech.cn^
 !openinstall
 ||openinstall.io^
 ||openinstall.com^
@@ -103,8 +90,11 @@
 ||crashlytics.com^
 !popin
 ||popin.cc^
-!360加固反馈
+!360
+||s.360.cn^
 ||appjiagu.com^
+||s.ssl.qhres.com^
+||jspassport.ssl.qhimg.com^
 !mob信息广告
 ||mob.com^
 !appsflyer
@@ -136,6 +126,7 @@
 ||msg.xiaomi.net^
 ||mistat.xiaomi.com^
 !阿里统计
+||mmstat.com^
 ||adash.man.aliyuncs.com^
 ||beacon-api.aliyuncs.com^
 ||adashbc.ut.taobao.com^
@@ -146,7 +137,6 @@
 !腾讯社交广告
 ||gdt.qq.com^
 ||sdk.pigqq.com^
-||sdk.e.qq.com^
 ||bugly.qq.com^
 ||tbs.qq.com^
 ||cfg.imtt.qq.com^
@@ -154,6 +144,8 @@
 ||mdc.html5.qq.com^
 ||mqqad.html5.qq.com^
 ||e.qq.com^
+||pingma.qq.com^
+||dnet.mb.qq.com^
 !雅虎广告
 ||advertising.com^
 !appnexus
@@ -204,6 +196,7 @@
 ||google-analytics.com^
 ||www.googletagmanager.com^
 ||adservice.google.com^
+||ampproject.org^
 !com.unity3d.services.ads
 ||unityads.unity3d.com^
 !com.uparpu
@@ -479,3 +472,5 @@
 ||tbwm.baidu.com^
 ||luflow.baidu.com^
 ||hm.baidu.com^
+||em.baidu.com^
+||cpro.baidustatic.com^

@@ -71,7 +71,15 @@
 ||ssggba.top^
 ||dnet.mb.qq.com^
 ||criteo.net^
-
+||360buyimg.com^
+||ulog.jd.com^
+||s.ssl.qhres.com^
+||jspassport.ssl.qhimg.com^
+||em.baidu.com^
+||mn586.com^
+||cpro.baidustatic.com^
+||3.cn^
+||sogoucdn.com^
 
 !广告图片源(小众)
 ||img.wojiabaoye.com^

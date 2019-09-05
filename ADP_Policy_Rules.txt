@@ -83,7 +83,7 @@ ads.
 /*.html?1$empty
 
 /template/*mobi$script
-/wap.js$replace=/http/xxx/
+/wap*.js$replace=/http/xxx/
 /wap.js$replace=/Go\('xxx/Go\('http/
 /read*.js$replace=/http/xxx/
 /index.js$replace=/http/xxx/

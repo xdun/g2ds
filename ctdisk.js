@@ -13,6 +13,6 @@
 (function() {
     'use strict';
     let link = location.href;
-    GM_openInTab('https://xjxy.com/ctdisk.php?url=' + link, { active: true });
+    GM_openInTab('https://localhost/ctdisk.php?url=' + link, { active: true });
     })();
     

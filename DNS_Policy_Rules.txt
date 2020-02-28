@@ -221,6 +221,7 @@
 ||ad-stir.com^
 !trafficjunky
 ||trafficjunky.com^
+||trafficjunky.net^
 !听云
 ||tingyun.com^
 ||apmcon.cn^

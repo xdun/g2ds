@@ -77,6 +77,7 @@ ads.
 /*.gif?$important,empty
 *?token8=$important,empty
 *js?ssid=$empty
+*js?ssfrid=$empty
 /uu.php?v=$empty
 /*.xhtml?$empty
 /*.htmm?$empty

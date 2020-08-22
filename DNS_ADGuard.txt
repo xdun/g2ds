@@ -78,7 +78,7 @@
 !com.vungle.warren.network
 ||vungle.com^
 !com.my.target
-||mail.ru^
+!||mail.ru^
 !com.avidly.playablead
 ||dataverse.cn^
 ||avidly.com^

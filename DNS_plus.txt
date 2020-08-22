@@ -34,3 +34,4 @@ wshifen.com^
 @@||189.cn^$important
 @@||ip138.com^$important
 @@||apizl.com^$important
+@@||imgcdn.fei05.xyz^$important
